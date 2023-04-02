@@ -1,0 +1,11 @@
+.countryDiv{
+    background-color: rgba(162, 0, 162, 0.83);
+    padding: 20px;
+    margin: 20px;
+    border-radius: 15px;
+    border: 5px solid #ffe4c4;
+    box-shadow: 0px 0px 10px 5px hsla(33, 77%, 26%, 0.548);   
+}
+.countryDiv img{
+    width: 125px;
+}

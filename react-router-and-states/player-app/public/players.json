@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "name": "Alisson Becker",
+    "age": 29,
+    "position": "Goalkeeper",
+    "club": "Liverpool",
+    "nationality": "Brazilian",
+    "price": 7500,
+    "trophy": "Copa America",
+    "picture": "https://m.media-amazon.com/images/M/MV5BZjRkMmU4OTktMjMzYi00NjA1LWIwZjgtZjYwYTY3ZjdlNGI1XkEyXkFqcGdeQXVyOTAyMDgxODQ@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Dani Alves",
+    "age": 38,
+    "position": "Right-Back",
+    "club": "Sao Paulo",
+    "nationality": "Brazilian",
+    "price": 500,
+    "trophy": "Copa America",
+    "picture": "https://i2-prod.mirror.co.uk/incoming/article28631689.ece/ALTERNATES/s1200c/0_GettyImages-1443105549.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Marquinhos",
+    "age": 27,
+    "position": "Centre-Back",
+    "club": "Paris Saint-Germain",
+    "nationality": "Brazilian",
+    "price": 8000,
+    "trophy": "Copa America",
+    "picture": "https://www.ligue1.com/-/media/Project/LFP/shared/Images/Players/2022-2023/82/57282.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Thiago Silva",
+    "age": 36,
+    "position": "Centre-Back",
+    "club": "Chelsea",
+    "nationality": "Brazilian",
+    "price": 3000,
+    "trophy": "Copa America",
+    "picture": "https://i2-prod.football.london/incoming/article25084183.ece/ALTERNATES/s1200c/0_Silva.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Alex Sandro",
+    "age": 30,
+    "position": "Left-Back",
+    "club": "Juventus",
+    "nationality": "Brazilian",
+    "price": 4000,
+    "trophy": "Copa America",
+    "picture": "https://static.toiimg.com/photo/msid-96091394/96091394.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Casemiro",
+    "age": 29,
+    "position": "Defensive Midfielder",
+    "club": "Real Madrid",
+    "nationality": "Brazilian",
+    "price": 8000,
+    "trophy": "Copa America",
+    "picture": "https://i.guim.co.uk/img/media/7947a424a20ad696d5567b6c8b6c0e3c73cd7c3f/0_247_5067_3040/master/5067.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=c945e829e5655b8084ad42ec6ab9c545"
+  },
+  {
+    "id": 7,
+    "name": "Fabinho",
+    "age": 27,
+    "position": "Defensive Midfielder",
+    "club": "Liverpool",
+    "nationality": "Brazilian",
+    "price": 6000,
+    "trophy": "Copa America",
+    "picture": "https://icdn.football-espana.net/wp-content/uploads/2023/02/FABINHO.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Philippe Coutinho",
+    "age": 29,
+    "position": "Attacking Midfielder",
+    "club": "Barcelona",
+    "nationality": "Brazilian",
+    "price": 9000,
+    "trophy": "Copa America",
+    "picture": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt7e101247b7af1880/60da72515775160f9f1e07cd/6b4e25e7338c876aec3830771ca582ea5c9127ae.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Neymar Jr.",
+    "age": 30,
+    "position": "Left Winger",
+    "club": "Paris Saint-Germain",
+    "nationality": "Brazilian",
+    "price": 18000,
+    "trophy": "Copa America",
+    "picture": "https://images.lifestyleasia.com/wp-content/uploads/sites/6/2022/11/29105943/neymar-jr-net-worth-brazil-world-cup-football-1350x900.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Roberto Firmino",
+    "age": 30,
+    "position": "Centre-Forward",
+    "club": "Liverpool",
+    "nationality": "Brazilian",
+    "price": 5000,
+    "trophy": "Copa America",
+    "picture": "https://sm.imgix.net/22/41/roberto-firmino_1.jpeg"
+  },
+  {
+    "id": 11,
+    "name": "Gabriel Jesus",
+    "age": 24,
+    "position": "Centre-Forward",
+    "club": "Manchester City",
+    "nationality": "Brazilian",
+    "price": 7000,
+    "trophy": "Copa America",
+    "picture": "https://i.guim.co.uk/img/media/2ccc44869de56b8481e859e3d98c896a893de238/0_367_5568_3341/master/5568.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=350e065ac6c5c64ce70186111881096e"
+  }
+]

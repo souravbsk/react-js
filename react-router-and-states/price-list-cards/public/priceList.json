@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "membershipType": "Basic",
+    "price": 29.99,
+    "duration": "Monthly",
+    "features": ["Gym equipment", "Locker rental"]
+  },
+  {
+    "id": 2,
+    "membershipType": "Premium",
+    "price": 49.99,
+    "duration": "Monthly",
+    "features": [
+      "Gym equipment",
+      "Locker rental",
+      "Group fitness",
+      "Personal training"
+    ]
+  },
+  {
+    "id": 3,
+    "membershipType": "Platinum",
+    "price": 99.99,
+    "duration": "Monthly",
+    "features": [
+      "Gym equipment",
+      "Locker rental",
+      "Group fitness",
+      "Personal training",
+      "Towel service",
+      "Sauna/steam room"
+    ]
+  }
+]
