@@ -2,7 +2,7 @@ import React from "react";
 import { ShoppingBagIcon } from "@heroicons/react/24/solid";
 import AddPlayerItem from "../AddPlayerItem/AddPlayerItem";
 
-const Cart = ({ carts, total }) => {
+const Cart = ({ carts, total,handleRemoveToCart }) => {
   return (
     <div className="px-5 py-16 space-y-2">
       <h3 className="text-3xl font-semibold text-center mb-3">Player Cart</h3>
@@ -20,9 +20,9 @@ const Cart = ({ carts, total }) => {
         </h2>
       </div>
       <div>
-        <div className="mt-8 flex flex-col gap-5">
+        <div className="mt-8 flex bg-purple-400 h-96 p-4 rounded-lg overflow-auto flex-col gap-5">
           {carts.map((cart) => (
-            <AddPlayerItem key={cart.id} cart={cart}></AddPlayerItem>
+            <AddPlayerItem handleRemoveToCart={handleRemoveToCart} key={cart.id} cart={cart}></AddPlayerItem>
           ))}
         </div>
       </div>

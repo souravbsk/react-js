@@ -6,12 +6,12 @@ const Players = ({ handleAddToCart }) => {
   const [players, setPlayers] = FetchData();
   return (
     <div>
-      <div className="sticky top-0">
+      <div className=" static md:sticky md:top-0">
         <h2 className="text-center font-semibold text-5xl py-5">
           Brazil Top 11
         </h2>
       </div>
-      <div className="grid grid-cols-2 gap-6">
+      <div className="grid md:grid-cols-2 gap-8">
         {players.map((player) => (
           <Player
             key={player.id}

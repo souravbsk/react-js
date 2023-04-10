@@ -1,7 +1,7 @@
 import React from "react";
 import { TrashIcon } from "@heroicons/react/24/solid";
 
-const AddPlayerItem = ({ cart }) => {
+const AddPlayerItem = ({ cart,handleRemoveToCart }) => {
   const { id, name, price, position, picture } = cart;
   return (
     <div className="flex justify-between bg-slate-300 py-3 px-3 rounded-2xl items-center">
@@ -18,7 +18,7 @@ const AddPlayerItem = ({ cart }) => {
         <p>{position}</p>
         <p className="font-medium">Price: ${price}</p>
       </div>
-      <button>
+      <button onClick={() => handleRemoveToCart(id)}>
         <TrashIcon className="w-6 h-6"></TrashIcon>
       </button>
     </div>
